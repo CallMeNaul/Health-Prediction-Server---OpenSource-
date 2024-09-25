@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7539b518-6dfe-41ed-908a-375670195be5)
+
 <h1 align="center">Health-Prediction-Server---OpenSource-</h1>
 
 # Nội dung đề tài: Triển khai Server dự đoán sức khỏe trên Kubernetes (minikube, kubectl và Docker)
