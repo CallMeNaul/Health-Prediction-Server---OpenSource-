@@ -1,2 +1,5 @@
 # Health-Prediction-Server---OpenSource-
-⚡ Triển khai một server dự đoán sức khỏe lên Kubernetes sử dụng các công cụ như minikube, kubectl và Docker. Bên cạnh đó triển khai các chức năng, thành phần chính của Kubernetes như  Deployment (autoscale), Service (LoadBalancer), monitoring (Prometheus, Grafana) và Quota
+## Triển khai Server dự đoán sức khỏe trên Kubernetes (minikube, kubectl và Docker)
+### Các chức năng: Deployment (autoscale), Service (LoadBalancer), monitoring (Prometheus, Grafana) và Quota
+## Mô hình
+![image](https://github.com/user-attachments/assets/faefd478-b885-4912-a3ac-3f5b452a0b22)
