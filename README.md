@@ -15,8 +15,8 @@
 ## Triển khai
 
 * 👀 Tạo Docker Image
-</br>
+<br>
 ![image](https://github.com/user-attachments/assets/c56424fe-5983-4b87-9386-f9e770d8da68)
 * 👀 Triển khai Image lên Kubernetes
-</br>
+<br>
 ![image](https://github.com/user-attachments/assets/096699b8-256d-459c-8937-f3b0fdf8a596)
